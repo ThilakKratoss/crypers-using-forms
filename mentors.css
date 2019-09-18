@@ -1,0 +1,18 @@
+body{
+    background-color:rgb(165, 159, 243);
+}
+.john{
+    animation-duration: 2s;
+}
+.coder{
+    animation-delay: 5s;
+    animation-duration: 2s;
+}
+.vimal{
+    animation-delay: 6s;
+    animation-duration: 2s;
+}
+.sriraam{
+    animation-delay: 7s;
+    animation-duration: 2s;
+}
